@@ -1,1 +1,1 @@
-# -Predict-A-Thon-3-Week-ML-Championship
+# Predict-A-Thon-3-Week-ML-Championship
